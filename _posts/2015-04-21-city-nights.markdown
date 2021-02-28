@@ -3,7 +3,7 @@ title:  "Rata"
 subtitle: "la mama de blancon"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
+image: "img/rata.jpg"
 date:   2015-04-21 12:12:12
 ---
 
