@@ -3,7 +3,7 @@ title:  "Akamaru"
 subtitle: "el perro ninja"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+image: "img/akamaru.jpg"
 date:   2015-04-20 12:12:12
 ---
 

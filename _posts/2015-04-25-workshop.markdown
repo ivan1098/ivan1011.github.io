@@ -3,7 +3,7 @@ title:  "Ares"
 subtitle: "el perro bandera"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "img/argos.png"
 date:   2015-04-25 12:12:12
 ---
 
