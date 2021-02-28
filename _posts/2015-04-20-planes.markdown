@@ -10,3 +10,4 @@ date:   2015-04-20 12:12:12
 ### Comida favorita
 - comida especial para perros que prepara su dueño Kiba.
 
+![]("img/argos.png")

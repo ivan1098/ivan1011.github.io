@@ -9,5 +9,14 @@ date:   2015-04-21 12:12:12
 
 ### Comida favorita
 - huesos
-- carne
+- carne0
 
+
+
+## Fotos miordiendo
+![](img/argos.png)
+## Fotos miordiendo 2
+
+![](img/argos.png)
+![](img/argos.png)
+![](img/argos.png)
