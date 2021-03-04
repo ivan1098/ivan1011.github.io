@@ -7,7 +7,11 @@ image: "img/arquero.jpg"
 date:   2015-04-20 12:12:12
 ---
 
-### Comida favorita
-- comida especial para perros que prepara su dueño Kiba.
-
+### Marcas
+- ADIDAS
+- NIKE
+- SOLOPORTEROS
+- RINAT
+- SELLS
+- UHLSPORT
 ![]("img/argos.png")
