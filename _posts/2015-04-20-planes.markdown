@@ -1,9 +1,9 @@
 ---
-title:  "Akamaru"
-subtitle: "el perro "
+title:  "GUANTES"
+subtitle: "LO MEJOR PARA EL ARCO"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
-image: "img/argos.png"
+image: "img/arquero.jpg"
 date:   2015-04-20 12:12:12
 ---
 
