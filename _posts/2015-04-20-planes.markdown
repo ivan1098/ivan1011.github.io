@@ -14,4 +14,4 @@ date:   2015-04-20 12:12:12
 - RINAT
 - SELLS
 - UHLSPORT
-![]("img/argos.png")
+![]("nike.jpg")
