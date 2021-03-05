@@ -9,9 +9,10 @@ date:   2015-04-20 12:12:12
 
 ### Marcas
 - ADIDAS
+![ Caption for picture.](img\guantes/adidas1.jpg)
 - NIKE
+![ Caption for picture.](img\guantes/adidas1.jpg)
 - SOLOPORTEROS
 - RINAT
 - SELLS
 - UHLSPORT
-![]("nike.jpg")
