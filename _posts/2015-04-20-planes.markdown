@@ -9,9 +9,11 @@ date:   2015-04-20 12:12:12
 
 ### Marcas
 - ADIDAS
-![ Caption for picture.](img\guantes/adidas1.jpg)
+<p><img src="img/argos.png" alt="" />
+<img src="img/argos.png" alt="" />
+<img src="img/argos.png" alt="" /></p>
 - NIKE
-![ Caption for picture.](img\guantes/adidas1.jpg)
+
 - SOLOPORTEROS
 - RINAT
 - SELLS
